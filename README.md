@@ -8,7 +8,7 @@ A simple, efficient script that enhances Windows 11 virtual desktop management w
 
 1. **Install AutoHotkey v1.1** from [autohotkey.com](https://www.autohotkey.com/)
 2. **Download VD.ahk** from [VD.ahk GitHub](https://github.com/FuPeiJiang/VD.ahk)
-3. **Download MoveToDesktopWin11.ahk** from [MoveToDesktop GitHub](https://github.com/xxxmtixxx/MoveToDesktop/blob/main/MoveToDesktopWin11.ahk)
+3. **Download MoveToDesktopWin11.ahk** from [MoveToDesktop GitHub](https://github.com/uh-whycanti/MoveToDesktop/blob/main/MoveToDesktopWin11.ahk)
 4. **Place both files** in the `C:\AutoHotkey` folder (create this folder if it doesn't exist)
 5. **Run the script** by double-clicking `MoveToDesktopWin11.ahk`
 
