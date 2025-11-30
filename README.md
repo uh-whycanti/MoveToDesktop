@@ -1,4 +1,4 @@
-# MoveToDesktop for Windows 11
+# MoveToDesktop
 
 A simple, efficient script that enhances Windows 11 virtual desktop management with application-specific naming.
 
@@ -8,9 +8,9 @@ A simple, efficient script that enhances Windows 11 virtual desktop management w
 
 1. **Install AutoHotkey v1.1** from [autohotkey.com](https://www.autohotkey.com/)
 2. **Download VD.ahk** from [VD.ahk GitHub](https://github.com/FuPeiJiang/VD.ahk)
-3. **Download MoveToDesktopWin11.ahk** from [MoveToDesktop GitHub](https://github.com/uh-whycanti/MoveToDesktop/blob/main/MoveToDesktopWin11.ahk)
+3. **Download MoveToDesktop.ahk** from [MoveToDesktop GitHub](https://github.com/uh-whycanti/MoveToDesktop/blob/main/MoveToDesktop.ahk)
 4. **Place both files** in the `C:\AutoHotkey` folder (create this folder if it doesn't exist)
-5. **Run the script** by double-clicking `MoveToDesktopWin11.ahk`
+5. **Run the script** by double-clicking `MoveToDesktop.ahk`
 
 ---
 
@@ -66,7 +66,7 @@ The script dynamically generates desktop names using the following logic:
 3. In the Startup folder, create a shortcut to the script:
 
    * Right-click → **New → Shortcut**
-   * Enter: `C:\AutoHotkey\MoveToDesktopWin11.ahk`
+   * Enter: `C:\AutoHotkey\MoveToDesktop.ahk`
    * Click **Next**, then **Finish**
 4. The script will now launch automatically when you log in.
 
